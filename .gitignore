@@ -1,0 +1,17 @@
+# Bytecode cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# OS-specific
+.DS_Store
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Node dependencies
+node_modules/

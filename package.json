@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "pandas": "^0.0.3",
+    "profanity-check": "^0.0.3",
+    "readability": "^0.1.0",
+    "requests": "^0.3.0"
+  }
+}

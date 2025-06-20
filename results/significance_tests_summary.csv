@@ -1,0 +1,6 @@
+Metric,Normality p-value,Test,Test statistic,p-value
+Flesch_Kincaid,0.0,Wilcoxon,380125.5,0.0
+Dale_Chall,0.0,Wilcoxon,362808.0,0.0
+Coleman_Liau,0.0,Wilcoxon,375504.0,0.0
+Spache,0.0,Wilcoxon,369649.5,0.0
+Profanity,0.0,Wilcoxon,1110.0,0.1281
